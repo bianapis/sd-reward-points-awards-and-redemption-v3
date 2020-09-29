@@ -1,0 +1,15 @@
+{
+  "redemptionInitiateActionRecord" : {},
+  "redemptionAwardsRedemptionServiceType" : "redemptionAwardsRedemptionServiceType",
+  "redemptionInitiateActionReference" : "RIAR735091",
+  "redemptionAwardsRedemptionServiceWorkProduct" : "redemptionAwardsRedemptionServiceWorkProduct",
+  "redemptionAwardsRedemptionServiceInputsandOuputs" : "redemptionAwardsRedemptionServiceInputsandOuputs",
+  "redemptionPreconditions" : "redemptionPreconditions",
+  "redemptionPostconditions" : "redemptionPostconditions",
+  "redemptionAwardsRedemptionServiceName" : "redemptionAwardsRedemptionServiceName",
+  "redemptionAwardsRedemptionServiceDescription" : "redemptionAwardsRedemptionServiceDescription",
+  "redemptionInstanceStatus" : "redemptionInstanceStatus",
+  "redemptionInstanceReference" : "RIR776542",
+  "redemptionTaskSchedule" : "redemptionTaskSchedule",
+  "awardsRedemption" : "awardsRedemption"
+}

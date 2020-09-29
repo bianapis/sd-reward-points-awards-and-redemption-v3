@@ -1,0 +1,20 @@
+{
+  "rewardPointsTransactionStatus" : "rewardPointsTransactionStatus",
+  "rewardPointsTransactionRetrieveActionTaskReference" : "RPTRATR774025",
+  "rewardPointsTransactionTransactionType" : "rewardPointsTransactionTransactionType",
+  "rewardPointsTransactionSelectedOption" : "rewardPointsTransactionSelectedOption",
+  "rewardPointsTransactionRetrieveActionTaskRecord" : {},
+  "rewardPointsTransactionRetrieveActionResponse" : "rewardPointsTransactionRetrieveActionResponse",
+  "rewardPointsTransactionInstanceAnalysis" : {
+    "rewardPointsTransactionInstanceAnalysisData" : "rewardPointsTransactionInstanceAnalysisData",
+    "rewardPointsTransactionInstanceAnalysisReportType" : "rewardPointsTransactionInstanceAnalysisReportType",
+    "rewardPointsTransactionInstanceAnalysisReport" : {}
+  },
+  "rewardPointsTransactionInstanceReportRecord" : {
+    "rewardPointsTransactionInstanceReport" : {},
+    "rewardPointsTransactionInstanceReportType" : "rewardPointsTransactionInstanceReportType",
+    "rewardPointsTransactionInstanceReportData" : "rewardPointsTransactionInstanceReportData"
+  },
+  "rewardPointsTransactionParameterType" : "rewardPointsTransactionParameterType",
+  "rewardPointsTransactionType" : "rewardPointsTransactionType"
+}

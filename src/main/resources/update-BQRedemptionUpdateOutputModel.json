@@ -1,0 +1,14 @@
+{
+  "redemptionUpdateActionTaskReference" : "RUATR767327",
+  "redemptionUpdateActionTaskRecord" : {},
+  "redemptionAwardsRedemptionServiceType" : "redemptionAwardsRedemptionServiceType",
+  "redemptionAwardsRedemptionServiceWorkProduct" : "redemptionAwardsRedemptionServiceWorkProduct",
+  "redemptionAwardsRedemptionServiceDescription" : "redemptionAwardsRedemptionServiceDescription",
+  "redemptionAwardsRedemptionServiceInputsandOuputs" : "redemptionAwardsRedemptionServiceInputsandOuputs",
+  "updateResponseRecord" : {},
+  "redemptionPreconditions" : "redemptionPreconditions",
+  "redemptionTaskSchedule" : "redemptionTaskSchedule",
+  "awardsRedemption" : "awardsRedemption",
+  "redemptionPostconditions" : "redemptionPostconditions",
+  "redemptionAwardsRedemptionServiceName" : "redemptionAwardsRedemptionServiceName"
+}

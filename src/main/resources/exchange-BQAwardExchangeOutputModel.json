@@ -1,0 +1,14 @@
+{
+  "awardAwardsServiceDescription" : "awardAwardsServiceDescription",
+  "awardExchangeActionResponse" : "awardExchangeActionResponse",
+  "awardPostconditions" : "awardPostconditions",
+  "awardAwardsServiceType" : "awardAwardsServiceType",
+  "awardTaskSchedule" : "awardTaskSchedule",
+  "awards" : "awards",
+  "awardExchangeActionTaskReference" : "AEATR755468",
+  "awardAwardsServiceWorkProduct" : "awardAwardsServiceWorkProduct",
+  "awardPreconditions" : "awardPreconditions",
+  "awardAwardsServiceInputsandOuputs" : "awardAwardsServiceInputsandOuputs",
+  "awardInstanceStatus" : "awardInstanceStatus",
+  "awardExchangeActionTaskRecord" : {}
+}

@@ -1,0 +1,25 @@
+{
+  "awardRetrieveActionTaskReference" : "ARATR723740",
+  "awardPostconditions" : "awardPostconditions",
+  "awardAwardsServiceType" : "awardAwardsServiceType",
+  "awardAwardsServiceWorkProduct" : "awardAwardsServiceWorkProduct",
+  "awardRetrieveActionResponse" : "awardRetrieveActionResponse",
+  "awardInstanceReport" : {
+    "awardInstanceReport" : {},
+    "awardInstanceReportRecord" : {},
+    "awardInstanceReportType" : "awardInstanceReportType",
+    "awardInstanceReportParameters" : "awardInstanceReportParameters"
+  },
+  "awardAwardsServiceDescription" : "awardAwardsServiceDescription",
+  "awardTaskSchedule" : "awardTaskSchedule",
+  "awardRetrieveActionTaskRecord" : {},
+  "awards" : "awards",
+  "awardPreconditions" : "awardPreconditions",
+  "awardAwardsServiceInputsandOuputs" : "awardAwardsServiceInputsandOuputs",
+  "awardInstanceAnalysis" : {
+    "awardInstanceAnalysisReport" : {},
+    "awardInstanceAnalysisReportType" : "awardInstanceAnalysisReportType",
+    "awardInstanceAnalysisRecord" : {},
+    "awardInstanceAnalysisParameters" : "awardInstanceAnalysisParameters"
+  }
+}

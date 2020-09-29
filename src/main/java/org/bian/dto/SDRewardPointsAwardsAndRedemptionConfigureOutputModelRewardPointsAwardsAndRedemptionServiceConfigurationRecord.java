@@ -1,0 +1,99 @@
+package org.bian.dto;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonCreator;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+import org.bian.dto.SDRewardPointsAwardsAndRedemptionConfigureInputModelRewardPointsAwardsAndRedemptionServiceConfigurationRecordRewardPointsAwardsAndRedemptionServiceAgreement;
+import org.bian.dto.SDRewardPointsAwardsAndRedemptionConfigureInputModelRewardPointsAwardsAndRedemptionServiceConfigurationRecordRewardPointsAwardsAndRedemptionServiceConfigurationSetup;
+import org.bian.dto.SDRewardPointsAwardsAndRedemptionConfigureInputModelRewardPointsAwardsAndRedemptionServiceConfigurationRecordRewardPointsAwardsAndRedemptionServiceSubscription;
+
+import javax.validation.Valid;
+  
+/**
+ * SDRewardPointsAwardsAndRedemptionConfigureOutputModelRewardPointsAwardsAndRedemptionServiceConfigurationRecord
+ */
+public class SDRewardPointsAwardsAndRedemptionConfigureOutputModelRewardPointsAwardsAndRedemptionServiceConfigurationRecord   {
+  private String rewardPointsAwardsAndRedemptionServiceConfigurationSettingDescription = null;
+
+  private SDRewardPointsAwardsAndRedemptionConfigureInputModelRewardPointsAwardsAndRedemptionServiceConfigurationRecordRewardPointsAwardsAndRedemptionServiceConfigurationSetup rewardPointsAwardsAndRedemptionServiceConfigurationSetup = null;
+
+  private SDRewardPointsAwardsAndRedemptionConfigureInputModelRewardPointsAwardsAndRedemptionServiceConfigurationRecordRewardPointsAwardsAndRedemptionServiceSubscription rewardPointsAwardsAndRedemptionServiceSubscription = null;
+
+  private SDRewardPointsAwardsAndRedemptionConfigureInputModelRewardPointsAwardsAndRedemptionServiceConfigurationRecordRewardPointsAwardsAndRedemptionServiceAgreement rewardPointsAwardsAndRedemptionServiceAgreement = null;
+
+  private String rewardPointsAwardsAndRedemptionServiceStatus = null;
+
+
+  /**
+   * `status: Not Mapped`  core-data-type-reference: BIAN::DataTypesLibrary::CoreDataTypes::UNCEFACT::Text  general-info: Description of the configuration parameter, allowed values and processing impact 
+   * @return rewardPointsAwardsAndRedemptionServiceConfigurationSettingDescription
+  **/
+
+  public String getRewardPointsAwardsAndRedemptionServiceConfigurationSettingDescription() {
+    return rewardPointsAwardsAndRedemptionServiceConfigurationSettingDescription;
+  }
+
+  public void setRewardPointsAwardsAndRedemptionServiceConfigurationSettingDescription(String rewardPointsAwardsAndRedemptionServiceConfigurationSettingDescription) {
+    this.rewardPointsAwardsAndRedemptionServiceConfigurationSettingDescription = rewardPointsAwardsAndRedemptionServiceConfigurationSettingDescription;
+  }
+
+
+  /**
+   * Get rewardPointsAwardsAndRedemptionServiceConfigurationSetup
+   * @return rewardPointsAwardsAndRedemptionServiceConfigurationSetup
+  **/
+
+  public SDRewardPointsAwardsAndRedemptionConfigureInputModelRewardPointsAwardsAndRedemptionServiceConfigurationRecordRewardPointsAwardsAndRedemptionServiceConfigurationSetup getRewardPointsAwardsAndRedemptionServiceConfigurationSetup() {
+    return rewardPointsAwardsAndRedemptionServiceConfigurationSetup;
+  }
+
+  public void setRewardPointsAwardsAndRedemptionServiceConfigurationSetup(SDRewardPointsAwardsAndRedemptionConfigureInputModelRewardPointsAwardsAndRedemptionServiceConfigurationRecordRewardPointsAwardsAndRedemptionServiceConfigurationSetup rewardPointsAwardsAndRedemptionServiceConfigurationSetup) {
+    this.rewardPointsAwardsAndRedemptionServiceConfigurationSetup = rewardPointsAwardsAndRedemptionServiceConfigurationSetup;
+  }
+
+
+  /**
+   * Get rewardPointsAwardsAndRedemptionServiceSubscription
+   * @return rewardPointsAwardsAndRedemptionServiceSubscription
+  **/
+
+  public SDRewardPointsAwardsAndRedemptionConfigureInputModelRewardPointsAwardsAndRedemptionServiceConfigurationRecordRewardPointsAwardsAndRedemptionServiceSubscription getRewardPointsAwardsAndRedemptionServiceSubscription() {
+    return rewardPointsAwardsAndRedemptionServiceSubscription;
+  }
+
+  public void setRewardPointsAwardsAndRedemptionServiceSubscription(SDRewardPointsAwardsAndRedemptionConfigureInputModelRewardPointsAwardsAndRedemptionServiceConfigurationRecordRewardPointsAwardsAndRedemptionServiceSubscription rewardPointsAwardsAndRedemptionServiceSubscription) {
+    this.rewardPointsAwardsAndRedemptionServiceSubscription = rewardPointsAwardsAndRedemptionServiceSubscription;
+  }
+
+
+  /**
+   * Get rewardPointsAwardsAndRedemptionServiceAgreement
+   * @return rewardPointsAwardsAndRedemptionServiceAgreement
+  **/
+
+  public SDRewardPointsAwardsAndRedemptionConfigureInputModelRewardPointsAwardsAndRedemptionServiceConfigurationRecordRewardPointsAwardsAndRedemptionServiceAgreement getRewardPointsAwardsAndRedemptionServiceAgreement() {
+    return rewardPointsAwardsAndRedemptionServiceAgreement;
+  }
+
+  public void setRewardPointsAwardsAndRedemptionServiceAgreement(SDRewardPointsAwardsAndRedemptionConfigureInputModelRewardPointsAwardsAndRedemptionServiceConfigurationRecordRewardPointsAwardsAndRedemptionServiceAgreement rewardPointsAwardsAndRedemptionServiceAgreement) {
+    this.rewardPointsAwardsAndRedemptionServiceAgreement = rewardPointsAwardsAndRedemptionServiceAgreement;
+  }
+
+
+  /**
+   * `status: Not Mapped`  core-data-type-reference: BIAN::DataTypesLibrary::CoreDataTypes::UNCEFACT::Text  general-info: The status of the offered service (e.g. active, suspended, idle) 
+   * @return rewardPointsAwardsAndRedemptionServiceStatus
+  **/
+
+  public String getRewardPointsAwardsAndRedemptionServiceStatus() {
+    return rewardPointsAwardsAndRedemptionServiceStatus;
+  }
+
+  public void setRewardPointsAwardsAndRedemptionServiceStatus(String rewardPointsAwardsAndRedemptionServiceStatus) {
+    this.rewardPointsAwardsAndRedemptionServiceStatus = rewardPointsAwardsAndRedemptionServiceStatus;
+  }
+
+
+}
+

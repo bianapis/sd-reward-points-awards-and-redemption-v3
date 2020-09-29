@@ -1,0 +1,24 @@
+{
+  "rewardPointsAwardsAndRedemptionServicingSessionStatus" : "rewardPointsAwardsAndRedemptionServicingSessionStatus",
+  "rewardPointsAwardsAndRedemptionActivationActionTaskReference" : "SAATR758836",
+  "rewardPointsAwardsAndRedemptionServiceConfigurationRecord" : {
+    "rewardPointsAwardsAndRedemptionServiceSubscription" : {
+      "rewardPointsAwardsAndRedemptionServiceSubscriberAccessProfile" : "rewardPointsAwardsAndRedemptionServiceSubscriberAccessProfile",
+      "rewardPointsAwardsAndRedemptionServiceSubscriberReference" : "769192"
+    },
+    "rewardPointsAwardsAndRedemptionServiceConfigurationSettingReference" : "700761",
+    "rewardPointsAwardsAndRedemptionServiceConfigurationSettingDescription" : "rewardPointsAwardsAndRedemptionServiceConfigurationSettingDescription",
+    "rewardPointsAwardsAndRedemptionServiceStatus" : "rewardPointsAwardsAndRedemptionServiceStatus",
+    "rewardPointsAwardsAndRedemptionServiceAgreement" : {
+      "rewardPointsAwardsAndRedemptionServiceUserReference" : "767210",
+      "rewardPointsAwardsAndRedemptionServiceAgreementReference" : "791202",
+      "rewardPointsAwardsAndRedemptionServiceAgreementTermsandConditions" : "rewardPointsAwardsAndRedemptionServiceAgreementTermsandConditions"
+    },
+    "rewardPointsAwardsAndRedemptionServiceConfigurationSetup" : {
+      "rewardPointsAwardsAndRedemptionServiceConfigurationParameter" : "rewardPointsAwardsAndRedemptionServiceConfigurationParameter"
+    }
+  },
+  "rewardPointsAwardsAndRedemptionServicingSessionRecord" : {},
+  "rewardPointsAwardsAndRedemptionServicingSessionReference" : "SSSR783215",
+  "rewardPointsAwardsAndRedemptionActivationActionTaskRecord" : {}
+}

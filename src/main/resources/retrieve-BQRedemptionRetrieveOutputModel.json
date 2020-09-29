@@ -1,0 +1,26 @@
+{
+  "redemptionAwardsRedemptionServiceType" : "redemptionAwardsRedemptionServiceType",
+  "redemptionAwardsRedemptionServiceWorkProduct" : "redemptionAwardsRedemptionServiceWorkProduct",
+  "redemptionRetrieveActionTaskReference" : "RRATR720876",
+  "redemptionInstanceAnalysis" : {
+    "redemptionInstanceAnalysisParameters" : "redemptionInstanceAnalysisParameters",
+    "redemptionInstanceAnalysisReportType" : "redemptionInstanceAnalysisReportType",
+    "redemptionInstanceAnalysisRecord" : {},
+    "redemptionInstanceAnalysisReport" : {}
+  },
+  "redemptionAwardsRedemptionServiceInputsandOuputs" : "redemptionAwardsRedemptionServiceInputsandOuputs",
+  "redemptionPreconditions" : "redemptionPreconditions",
+  "redemptionPostconditions" : "redemptionPostconditions",
+  "redemptionAwardsRedemptionServiceName" : "redemptionAwardsRedemptionServiceName",
+  "redemptionRetrieveActionTaskRecord" : {},
+  "redemptionRetrieveActionResponse" : "redemptionRetrieveActionResponse",
+  "redemptionAwardsRedemptionServiceDescription" : "redemptionAwardsRedemptionServiceDescription",
+  "redemptionTaskSchedule" : "redemptionTaskSchedule",
+  "awardsRedemption" : "awardsRedemption",
+  "redemptionInstanceReport" : {
+    "redemptionInstanceReportRecord" : {},
+    "redemptionInstanceReportType" : "redemptionInstanceReportType",
+    "redemptionInstanceReportParameters" : "redemptionInstanceReportParameters",
+    "redemptionInstanceReport" : {}
+  }
+}

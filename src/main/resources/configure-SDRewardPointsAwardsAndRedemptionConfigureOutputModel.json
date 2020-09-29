@@ -1,0 +1,21 @@
+{
+  "rewardPointsAwardsAndRedemptionConfigurationActionTaskReference" : "SCATR765419",
+  "rewardPointsAwardsAndRedemptionServicingSessionStatus" : "rewardPointsAwardsAndRedemptionServicingSessionStatus",
+  "rewardPointsAwardsAndRedemptionServiceConfigurationRecord" : {
+    "rewardPointsAwardsAndRedemptionServiceSubscription" : {
+      "rewardPointsAwardsAndRedemptionServiceSubscriberAccessProfile" : "rewardPointsAwardsAndRedemptionServiceSubscriberAccessProfile",
+      "rewardPointsAwardsAndRedemptionServiceSubscriberReference" : "756221"
+    },
+    "rewardPointsAwardsAndRedemptionServiceConfigurationSettingDescription" : "rewardPointsAwardsAndRedemptionServiceConfigurationSettingDescription",
+    "rewardPointsAwardsAndRedemptionServiceStatus" : "rewardPointsAwardsAndRedemptionServiceStatus",
+    "rewardPointsAwardsAndRedemptionServiceAgreement" : {
+      "rewardPointsAwardsAndRedemptionServiceUserReference" : "733696",
+      "rewardPointsAwardsAndRedemptionServiceAgreementReference" : "721156",
+      "rewardPointsAwardsAndRedemptionServiceAgreementTermsandConditions" : "rewardPointsAwardsAndRedemptionServiceAgreementTermsandConditions"
+    },
+    "rewardPointsAwardsAndRedemptionServiceConfigurationSetup" : {
+      "rewardPointsAwardsAndRedemptionServiceConfigurationParameter" : "rewardPointsAwardsAndRedemptionServiceConfigurationParameter"
+    }
+  },
+  "rewardPointsAwardsAndRedemptionConfigurationActionTaskRecord" : {}
+}

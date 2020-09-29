@@ -1,0 +1,39 @@
+{
+  "rewardPointsAwardsAndRedemptionRetrieveActionTaskReference" : "SRATR795161",
+  "rewardPointsAwardsAndRedemptionRetrieveActionTaskRecord" : {},
+  "rewardPointsAwardsAndRedemptionRetrieveActionResponse" : "rewardPointsAwardsAndRedemptionRetrieveActionResponse",
+  "rewardPointsAwardsAndRedemptionOfferedService" : {
+    "rewardPointsAwardsAndRedemptionServiceRecord" : {
+      "rewardPointsAwardsAndRedemptionServiceType" : "rewardPointsAwardsAndRedemptionServiceType",
+      "rewardPointsAwardsAndRedemptionServiceVersion" : "rewardPointsAwardsAndRedemptionServiceVersion",
+      "rewardPointsAwardsAndRedemptionServicePoliciesandGuidelines" : {
+        "rewardPointsAwardsAndRedemptionServiceIntendedUses" : "rewardPointsAwardsAndRedemptionServiceIntendedUses",
+        "rewardPointsAwardsAndRedemptionServiceEligibility" : "rewardPointsAwardsAndRedemptionServiceEligibility",
+        "rewardPointsAwardsAndRedemptionServicePricingandTerms" : "rewardPointsAwardsAndRedemptionServicePricingandTerms"
+      },
+      "rewardPointsAwardsAndRedemptionServiceSchedule" : "rewardPointsAwardsAndRedemptionServiceSchedule",
+      "rewardPointsAwardsAndRedemptionServiceDescription" : "rewardPointsAwardsAndRedemptionServiceDescription"
+    },
+    "rewardPointsAwardsAndRedemptionServiceReference" : "776158"
+  },
+  "rewardPointsAwardsAndRedemptionRetrieveActionRecord" : {
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    },
+    "rewardPointsAwardsAndRedemptionActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    },
+    "rewardPointsAwardsAndRedemptionPerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    }
+  }
+}

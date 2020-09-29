@@ -1,0 +1,14 @@
+{
+  "awardAwardsServiceDescription" : "awardAwardsServiceDescription",
+  "awardPostconditions" : "awardPostconditions",
+  "awardAwardsServiceType" : "awardAwardsServiceType",
+  "awardTaskSchedule" : "awardTaskSchedule",
+  "awards" : "awards",
+  "awardAwardsServiceWorkProduct" : "awardAwardsServiceWorkProduct",
+  "awardPreconditions" : "awardPreconditions",
+  "awardAwardsServiceInputsandOuputs" : "awardAwardsServiceInputsandOuputs",
+  "awardInitiateActionRecord" : {},
+  "awardInstanceStatus" : "awardInstanceStatus",
+  "awardInstanceReference" : "AIR765127",
+  "awardInitiateActionReference" : "AIAR762381"
+}

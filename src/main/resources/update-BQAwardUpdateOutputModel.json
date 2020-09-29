@@ -1,0 +1,13 @@
+{
+  "awardAwardsServiceDescription" : "awardAwardsServiceDescription",
+  "awardPostconditions" : "awardPostconditions",
+  "awardAwardsServiceType" : "awardAwardsServiceType",
+  "awardTaskSchedule" : "awardTaskSchedule",
+  "awards" : "awards",
+  "awardUpdateActionTaskRecord" : {},
+  "awardAwardsServiceWorkProduct" : "awardAwardsServiceWorkProduct",
+  "awardPreconditions" : "awardPreconditions",
+  "awardAwardsServiceInputsandOuputs" : "awardAwardsServiceInputsandOuputs",
+  "updateResponseRecord" : {},
+  "awardUpdateActionTaskReference" : "AUATR749874"
+}

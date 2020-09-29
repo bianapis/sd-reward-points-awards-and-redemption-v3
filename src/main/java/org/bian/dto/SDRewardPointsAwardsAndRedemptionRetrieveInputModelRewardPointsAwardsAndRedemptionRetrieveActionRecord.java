@@ -1,0 +1,67 @@
+package org.bian.dto;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonCreator;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+import org.bian.dto.SDRewardPointsAwardsAndRedemptionRetrieveInputModelRewardPointsAwardsAndRedemptionRetrieveActionRecordControlRecordPortfolioAnalysis;
+import org.bian.dto.SDRewardPointsAwardsAndRedemptionRetrieveInputModelRewardPointsAwardsAndRedemptionRetrieveActionRecordRewardPointsAwardsAndRedemptionActivityAnalysis;
+import org.bian.dto.SDRewardPointsAwardsAndRedemptionRetrieveInputModelRewardPointsAwardsAndRedemptionRetrieveActionRecordRewardPointsAwardsAndRedemptionPerformanceAnalysis;
+
+import javax.validation.Valid;
+  
+/**
+ * SDRewardPointsAwardsAndRedemptionRetrieveInputModelRewardPointsAwardsAndRedemptionRetrieveActionRecord
+ */
+public class SDRewardPointsAwardsAndRedemptionRetrieveInputModelRewardPointsAwardsAndRedemptionRetrieveActionRecord   {
+  private SDRewardPointsAwardsAndRedemptionRetrieveInputModelRewardPointsAwardsAndRedemptionRetrieveActionRecordRewardPointsAwardsAndRedemptionActivityAnalysis rewardPointsAwardsAndRedemptionActivityAnalysis = null;
+
+  private SDRewardPointsAwardsAndRedemptionRetrieveInputModelRewardPointsAwardsAndRedemptionRetrieveActionRecordRewardPointsAwardsAndRedemptionPerformanceAnalysis rewardPointsAwardsAndRedemptionPerformanceAnalysis = null;
+
+  private SDRewardPointsAwardsAndRedemptionRetrieveInputModelRewardPointsAwardsAndRedemptionRetrieveActionRecordControlRecordPortfolioAnalysis controlRecordPortfolioAnalysis = null;
+
+
+  /**
+   * Get rewardPointsAwardsAndRedemptionActivityAnalysis
+   * @return rewardPointsAwardsAndRedemptionActivityAnalysis
+  **/
+
+  public SDRewardPointsAwardsAndRedemptionRetrieveInputModelRewardPointsAwardsAndRedemptionRetrieveActionRecordRewardPointsAwardsAndRedemptionActivityAnalysis getRewardPointsAwardsAndRedemptionActivityAnalysis() {
+    return rewardPointsAwardsAndRedemptionActivityAnalysis;
+  }
+
+  public void setRewardPointsAwardsAndRedemptionActivityAnalysis(SDRewardPointsAwardsAndRedemptionRetrieveInputModelRewardPointsAwardsAndRedemptionRetrieveActionRecordRewardPointsAwardsAndRedemptionActivityAnalysis rewardPointsAwardsAndRedemptionActivityAnalysis) {
+    this.rewardPointsAwardsAndRedemptionActivityAnalysis = rewardPointsAwardsAndRedemptionActivityAnalysis;
+  }
+
+
+  /**
+   * Get rewardPointsAwardsAndRedemptionPerformanceAnalysis
+   * @return rewardPointsAwardsAndRedemptionPerformanceAnalysis
+  **/
+
+  public SDRewardPointsAwardsAndRedemptionRetrieveInputModelRewardPointsAwardsAndRedemptionRetrieveActionRecordRewardPointsAwardsAndRedemptionPerformanceAnalysis getRewardPointsAwardsAndRedemptionPerformanceAnalysis() {
+    return rewardPointsAwardsAndRedemptionPerformanceAnalysis;
+  }
+
+  public void setRewardPointsAwardsAndRedemptionPerformanceAnalysis(SDRewardPointsAwardsAndRedemptionRetrieveInputModelRewardPointsAwardsAndRedemptionRetrieveActionRecordRewardPointsAwardsAndRedemptionPerformanceAnalysis rewardPointsAwardsAndRedemptionPerformanceAnalysis) {
+    this.rewardPointsAwardsAndRedemptionPerformanceAnalysis = rewardPointsAwardsAndRedemptionPerformanceAnalysis;
+  }
+
+
+  /**
+   * Get controlRecordPortfolioAnalysis
+   * @return controlRecordPortfolioAnalysis
+  **/
+
+  public SDRewardPointsAwardsAndRedemptionRetrieveInputModelRewardPointsAwardsAndRedemptionRetrieveActionRecordControlRecordPortfolioAnalysis getControlRecordPortfolioAnalysis() {
+    return controlRecordPortfolioAnalysis;
+  }
+
+  public void setControlRecordPortfolioAnalysis(SDRewardPointsAwardsAndRedemptionRetrieveInputModelRewardPointsAwardsAndRedemptionRetrieveActionRecordControlRecordPortfolioAnalysis controlRecordPortfolioAnalysis) {
+    this.controlRecordPortfolioAnalysis = controlRecordPortfolioAnalysis;
+  }
+
+
+}
+
